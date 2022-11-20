@@ -1,0 +1,3 @@
+Catatan hari ini:
+- Sedang belajar github
+- Cara membuat repository di github
